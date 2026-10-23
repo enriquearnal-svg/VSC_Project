@@ -19,3 +19,5 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 Entendido
 Comencemos a trastear
 ESto es fácil
+Conflictos a mí ...
+Voy a provocar un conflicto para solucionarlo manualmente
