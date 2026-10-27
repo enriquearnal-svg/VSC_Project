@@ -1,5 +1,5 @@
 public class VSC_Project {
     public static void main(String[] args) throws Exception {
-        System.out.println("THE END");
+        System.out.println("Se acabó");
     }
 }
